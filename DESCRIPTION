@@ -1,0 +1,12 @@
+Package: aigr
+Title: Automatic Item Generation for Computerized Adaptive Testing
+Version: 0.1
+Authors@R: Ricardo Pietrobon, Bruno Melo, Joao Vissoci
+Maintainer: Ricardo Pietrobon ricardo@preciseskills.com
+Description: This package transforms item models into multiple items
+URL:
+Depends:
+    R (>= 3.0.1)
+License: MIT
+Suggests: 
+
